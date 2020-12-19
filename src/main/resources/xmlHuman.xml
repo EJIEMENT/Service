@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Human>
+    <name>Andrew</name>
+    <age>21</age>
+    <surname>Kot</surname>
+    <address>
+        <city>Lviv</city>
+        <street>Cool</street>
+        <booth>14</booth>
+    </address>
+</Human>

@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Volodya",
+    "surname": "Konontsev",
+    "address": {
+      "city": "Lviv",
+      "street": "Vel",
+      "booth": 14
+    },
+    "age": 30
+  },
+  {
+    "id": 2,
+    "name": "Oleksii",
+    "surname": "Konontsev",
+    "address": {
+      "city": "Lviv",
+      "street": "Vel",
+      "booth": 14
+    },
+    "age": 30
+  },
+  {
+    "id": 3,
+    "name": "Volodya",
+    "surname": "Konontsev",
+    "address": {
+      "city": "Lviv",
+      "street": "Vel",
+      "booth": 14
+    },
+    "age": 30
+  }
+]

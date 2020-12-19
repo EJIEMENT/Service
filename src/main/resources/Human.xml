@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<human>
+    <name>Oleksii</name>
+    <surname>Konontsev</surname>
+    <age>30</age>
+    <address>
+        <city>Lviv</city>
+        <street>Vel</street>
+        <booth>14</booth>
+    </address>
+</human>

@@ -1,0 +1,24 @@
+{
+  "human": {
+    "name": "Volodya",
+    "surname": "Konontsev",
+    "address": {
+      "city": "LVIV",
+      "street": "Velychkovskogo",
+      "booth": 14
+    },
+    "age": 17
+  },
+  "human": {
+    "name": "Oleksii",
+    "surname": "Konontsev",
+    "address": {
+      "city": "LVIV",
+      "street": "Velychkovskogo",
+      "booth": 14
+    },
+    "age": 25
+  }
+}
+
+
